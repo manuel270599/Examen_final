@@ -2,7 +2,7 @@
 
 Solo uso una clase principal y otra para pedir información
 
-![vista](Aspose.Words.6ccdd349-b92e-4159-bb6e-5279dc0de24f.001.png)
+![vista](image/Aspose.Words.6ccdd349-b92e-4159-bb6e-5279dc0de24f.001.png)
 
 Sus respectivas pruebas 
 
